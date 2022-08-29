@@ -1,0 +1,36 @@
+
+{
+    "users": [
+        {
+            "firstName": "Rachel",
+            "lastName": "Shlyfer",
+            "birthDate": {
+                "date": "May 24",
+                "Year": 1968
+            },
+            "roles": [
+                {
+                    "roleName": "Teacher",
+                    "startDate": "May 20 2020",
+                    "endDate": "July 21 2021"
+                },
+                {
+                    "roleName": "Dean",
+                    "startDate": "September 20 2021",
+                    "endDate": "July 30 2022"
+                }
+            ],
+            "dependents": [
+                {
+                    "firstName": "Irit",
+                    "lastName": "Shlyfer"
+                },
+                {
+                    "firstName": "Goldie",
+                    "lastName": "Shlyfer"
+                }
+            ]
+        }
+    ]
+
+}
