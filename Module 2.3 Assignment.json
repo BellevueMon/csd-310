@@ -1,0 +1,51 @@
+{
+    "students": [
+        {
+            "student_id": 1,
+            "first_name": "Jake",
+            "last_name": "Paulin",
+            "enrollments": [
+                {
+                    "term": "HIS 250",
+                    "gpa": 4,
+                    "start_date": "September 20 2015",
+                    "end_date": "January 10 2016",
+                    "courses": [
+                        {
+                            "course_id": 3,
+                            "description": "US History",
+                            "instructor": "Neil Monheit",
+                            "grade": "90"
+                        },
+                        {
+                            "course_id": 4,
+                            "description": "Global History",
+                            "instructor": "Irit Monheit",
+                            "grade": "88"
+                        }
+                    ]
+                },
+                {
+                    "term": "CIS 260",
+                    "gpa": 4,
+                    "start_date": "Febuary 05 2016",
+                    "end_date": "May 30 2016",
+                    "courses": [
+                        {
+                            "course_id": 1,
+                            "description": "Science",
+                            "instructor": "Jeremy Bohring",
+                            "grade": "89"
+                        },
+                        {
+                            "course_id": 2,
+                            "description": "Computers",
+                            "instructor": "Ben Mueller",
+                            "grade": "92"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

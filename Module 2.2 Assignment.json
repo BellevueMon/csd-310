@@ -1,0 +1,53 @@
+{
+    "customers": [
+        {
+            "_id": 1,
+            "first_name": "Harry",
+            "last_name": "Styles",
+            "date_of_birth": "February 1, 1994",
+            "user_name": "HarryStyles3",
+            "invoices": [
+                {
+                    "_id": 1,
+                    "date_created": "January 7 2000",
+                    "date_shipped": "January 15 2000",
+                    "subtotal": 2,
+                    "lineItems": [
+                        {
+                            "_id": 1,
+                            "name": "Microphone",
+                            "price": 70,
+                            "quantity": 5
+                        },
+                        {
+                            "_id": 2,
+                            "name": "Cable",
+                            "price": 10,
+                            "quantity":3
+                        }
+                    ]
+                },
+                {
+                    "_id": 2,
+                    "date_created": "Febuary 21 2000",
+                    "date_shipped": "Febuary 26 2000",
+                    "subtotal": 2,
+                    "lineItems": [
+                        {
+                            "_id": 3,
+                            "name": "Wig",
+                            "price": 45,
+                            "quantity": 2
+                        },
+                        {
+                            "_id": 4,
+                            "name": "Shirt",
+                            "price": 30,
+                            "quantity": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
