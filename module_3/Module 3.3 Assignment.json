@@ -1,0 +1,26 @@
+{
+    "book_name":"digital_forensics",
+    "book_price":"$45",
+    "isbn":"4584565474215668",
+    "publisher_code":"45114541",
+    "authors":[
+        {
+            "first_name":"Josh",
+            "last_name":"Peck",
+            "email":"Jpeck@gmail.com",
+            "phone":"7188548254"
+        },
+        {
+            "first_name":"Mary",
+            "last_name":"Jane",
+            "email":"Mjane@gmail.com",
+            "phone":"7186248536"
+        }
+    ],
+    "publisher":[
+        {
+            "name":"jmpublishing",
+            "address":"1600 pennsylvannia avenue"
+        }
+    ]
+}

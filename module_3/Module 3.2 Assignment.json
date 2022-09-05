@@ -1,0 +1,35 @@
+{
+    "first_name":"Jon",
+    "last_name":"Adams",
+    "roles": [
+        {
+            "role_one":"owner",
+            "permissions_one":[
+                {
+                    "permission_name":"write"
+                },
+                {
+                    "permission_name":"remove"
+                }
+            ],
+            "role_two":"editor",
+            "permissions_two":[
+                {
+                    "permission_name":"read"
+                },
+                {
+                    "permission_name":"write"
+                }
+            ],
+            "role_three":"commentator",
+            "permissions_three":[
+                {
+                    "permission_name":"read"
+                },
+                {
+                    "permission_name":"comment"
+                }
+            ]
+        }
+    ]
+}
