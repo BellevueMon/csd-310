@@ -65,7 +65,7 @@ def validate_user():
     
 
     try:
-        user_id = input('Enter a customer id <Example 1 for user_id 1>:')
+        user_id = input('Enter a customer id <Example: Enter 1 for user ID 1>:')
         
         """ Separated the integer from input value """
         uidCasted = int(user_id)
