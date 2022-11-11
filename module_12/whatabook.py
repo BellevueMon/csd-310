@@ -1,5 +1,5 @@
 """ 
-    Title: what_a_book.py
+    Title: whatabook.py
     Author: Yonatan Monheit
     Date: 9 November 2022
     Description: WhatABook program; Console program that interfaces with a MySQL database
